@@ -1,9 +1,9 @@
 # Mecanica-de-Mercado
 Mecânica de Mercado para RPG de mesa que tenta simular a variação de preços em função das ações dos jogadores, políticas e comércio.
 
-##############################
-  RECOMENDAÇÕES:
-##############################
+
+## RECOMENDAÇÕES:
+
 1- Sempre ao abrir Habilite as Macros, caso contrário o mercado não irá funcionar.
 
 2- Para alterar as planilhas das cidades sempre esteja com a planilha "Controle" aberta.
@@ -11,9 +11,7 @@ Mecânica de Mercado para RPG de mesa que tenta simular a variação de preços 
 3- Sempre que alterar a pasta que o mercado estiver contido, abra o Controle, apague o caminho para as planilhas das cidades e abra-as pelo botão "Abrir" na planilha Controle.
 
 
-##############################
-  CRIANDO CIDADES:
-##############################
+## CRIANDO CIDADES:
 1- Vá na planilha Controle e coloque na tabela das cidades o nome da sua e o Multiplicador Geral dela.
 
 2- Ordene as cidades para ordem alfebética. (Parece bobo, mas isso é extremamente importante para que o Excel entenda sem bugs os cálculos)
@@ -28,9 +26,8 @@ PRONTO!
 Sua cidade já está fucionando. Agora é so ajustar as relações com as outras cidaes e os itens.
 
 
-##############################
-  MODIFICANDO VALOR DAS MOEDAS:
-##############################
+## MODIFICANDO VALOR DAS MOEDAS:
+
 1- Vá na planilha "Controle" e altere na tabela das moedas o valor da relação delas.
 
 Pronto!
@@ -38,9 +35,8 @@ Pronto!
 Você pode alterar o nome delas também, mas terá que manualmente arrumar em todas as abas das planilhas das cidades.
 
 
-##############################
-  CRÉDITOS:
-##############################
+
+## CRÉDITOS:
 Essa mecânica foi desenvolvida pela Taberna da Maçã Envenenada (2021)
 
 Instagram: @taberna.maca.envenenada
